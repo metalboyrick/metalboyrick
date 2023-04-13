@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **metalboyrick/metalboyrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a warehouse manangement software with React and NestJS (Fullstack)
 - 🌱 I’m currently learning NestJS, Solidity, and Mobile Development
 - 📫 How to reach me: rsulisthio.vercel.app
+
+# GitHub Stats
+
+![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=metalboyrick&count_private=true&show_icons=true&theme=onedark)
