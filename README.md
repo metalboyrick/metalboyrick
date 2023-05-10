@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 👯 Helping to build GASPACK as a Frontend Engineer
 - 🔭 I’m currently working on a warehouse manangement software with React and NestJS (Fullstack)
 - 🌱 I’m currently learning NestJS, Solidity, and Mobile Development
 - 📫 How to reach me: rsulisthio.vercel.app
