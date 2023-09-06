@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👯 Helping to build GASPACK as a Frontend Engineer
-- 🔭 I’m currently working on an eCommerce software with React and NestJS (Fullstack)
+- ⚡ React and TypeScript junkie but learning others as well
 - 📫 How to reach me: rsulisthio.vercel.app
 
 # GitHub Stats
