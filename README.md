@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👯 Helping to build GASPACK as a Frontend Engineer
 - ⚡ React and TypeScript junkie but learning others as well
 - 📫 How to reach me: rsulisthio.vercel.app
 
