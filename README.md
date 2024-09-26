@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡ React and TypeScript junkie but learning others as well
+- ⛓️ Blockchain and Web3 Enthusiast
+- 🌱 I’m currently learning Solidity and Rust
 - 📫 How to reach me: rsulisthio.vercel.app
 
 # GitHub Stats
