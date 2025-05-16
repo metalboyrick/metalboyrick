@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ React and TypeScript junkie but learning others as well
+- ⚡ Full stack developer (Frontend, Backend, Smart Contracts)
 - ⛓️ Blockchain and Web3 Enthusiast
 - 🌱 I’m currently learning Solidity and Rust
 - 📫 How to reach me: My info section is always updated!
