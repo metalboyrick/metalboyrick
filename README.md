@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - ⚡ Full stack developer (Frontend, Backend, Smart Contracts)
 - ⛓️ Blockchain and Web3 Enthusiast
-- 🌱 I’m currently learning Solidity and Rust
+- 🌱 I’m currently learning Rust, Anchor, Cairo, and How to run Businesses
 - 📫 How to reach me: My info section is always updated!
 
 # GitHub Stats
