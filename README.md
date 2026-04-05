@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⛓️ Blockchain and Web3 Enthusiast
 - 🌱 I’m currently learning Rust, Anchor, Cairo, and How to run Businesses
 - 📫 How to reach me: My info section is always updated!
+- ⚡ I also build at ![Solder](https://github.com/solder-build)
 
 # GitHub Stats
 
